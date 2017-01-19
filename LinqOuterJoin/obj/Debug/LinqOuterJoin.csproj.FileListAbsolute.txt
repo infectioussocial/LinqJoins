@@ -1,0 +1,6 @@
+C:\StudyDev\Sandbox\LinqOuterJoin\LinqOuterJoin\bin\Debug\LinqOuterJoin.exe.config
+C:\StudyDev\Sandbox\LinqOuterJoin\LinqOuterJoin\bin\Debug\LinqOuterJoin.exe
+C:\StudyDev\Sandbox\LinqOuterJoin\LinqOuterJoin\bin\Debug\LinqOuterJoin.pdb
+C:\StudyDev\Sandbox\LinqOuterJoin\LinqOuterJoin\obj\Debug\LinqOuterJoin.csprojResolveAssemblyReference.cache
+C:\StudyDev\Sandbox\LinqOuterJoin\LinqOuterJoin\obj\Debug\LinqOuterJoin.exe
+C:\StudyDev\Sandbox\LinqOuterJoin\LinqOuterJoin\obj\Debug\LinqOuterJoin.pdb
